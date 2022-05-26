@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 May 2022 16:49:00 at https://www.kaleido.io/blockchain-platform/quorum +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.kaleido.io/blockchain-platform/quorum -O1 "C:\My_Web_Sites_HTTrack\Quorum porject kaledio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:49:40	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.kaleido.io/blockchain-platform/quorum)
+16:50:17	Error: 	"Forbidden" (403) at link https://assets-global.website-files.com/5dfc18aeef0cf9644ab5ccca/5fca80be7d574a0156a359d1_Group photo - S+S.png (from https://assets-global.website-files.com/5dfc18aeef0cf9644ab5ccca/css/kaleido.211250e64.min.css)
+16:50:19	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.kaleido.io/blockchain-platform/aws-log-streaming (from https://www.kaleido.io/blockchain-platform/amazon-web-services)
+16:50:20	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.kaleido.io/blockchain-platform/hyperledger-besu (from https://www.kaleido.io/blockchain-platform/amazon-web-services)
+16:50:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.kaleido.io/blockchain-platform/aws-log-streaming (from https://www.kaleido.io/blockchain-platform/amazon-web-services)
+16:50:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.kaleido.io/blockchain-platform/hyperledger-besu (from https://www.kaleido.io/blockchain-platform/amazon-web-services)
+16:50:25	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.kaleido.io/blockchain-platform/aws-log-streaming (from https://www.kaleido.io/blockchain-platform/amazon-web-services)
+16:50:26	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.kaleido.io/blockchain-platform/hyperledger-besu (from https://www.kaleido.io/blockchain-platform/amazon-web-services)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 26 seconds : 166 links scanned, 157 files written (31500688 bytes overall) [29217637 bytes received at 339739 bytes/sec], 3086383 bytes transferred using HTTP compression in 38 files, ratio 22%, 8.7 requests per connection
+(4 errors, 4 warnings, 0 messages)
